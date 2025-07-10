@@ -1,0 +1,15 @@
+{
+  "name": "mini-axios",
+  "version": "1.0.0",
+  "description": "Mini-Axios - For All Web Requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pradeep Sahani",
+  "license": "ISC",
+  "dependencies": {
+    "undici": "^6.21.3"
+  }
+}
